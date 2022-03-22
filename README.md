@@ -30,3 +30,7 @@ http://localhost:8080
 
 danielitogomez
 
+## License
+
+MIT License
+
